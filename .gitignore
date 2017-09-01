@@ -1,0 +1,12 @@
+env
+*.swp
+*.pyc
+doc/build
+*.egg-info/
+pytest/
+dist/
+.cache/
+.coverage
+tuxeatpi_hotword_kittai/libs/resources/
+tuxeatpi_hotword_kittai/libs/snowboydetect.py
+tuxeatpi_hotword_kittai/libs/_snowboydetect.so

@@ -1,0 +1,3 @@
+[run]
+omit = 
+    tuxeatpi_hotword_kittai/libs/snowboydetect.py
